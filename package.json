@@ -13,5 +13,16 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
-  }
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snitin78/mean-stack-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/snitin78/mean-stack-app/issues"
+  },
+  "homepage": "https://github.com/snitin78/mean-stack-app#readme"
 }
