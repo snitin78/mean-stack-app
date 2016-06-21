@@ -1,0 +1,17 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Nitin Singhal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
