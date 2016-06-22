@@ -8,3 +8,5 @@ talk.hello("Nitin");
 
 console.log(question.ask("What is the meaning of life?"));
 goodbye();
+
+//console.log("It works!");
