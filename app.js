@@ -1,4 +1,4 @@
-require('./instantHello');
+require('./archive/instantHello');
 var goodbye = require("./talk/goodbye");
 var talk = require("./talk");
 var question = require("./talk/question");
