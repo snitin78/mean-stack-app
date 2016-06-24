@@ -1,3 +1,6 @@
+//require('./api/data/dbconnection.js').open();
+require('./api/data/dbmongoose.js');
+
 var express = require("express");
 var app = express();
 var path = require("path");
