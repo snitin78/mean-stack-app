@@ -4,6 +4,7 @@ require('./api/data/dbmongoose.js');
 var express = require("express");
 var app = express();
 var path = require("path");
+// Required for getting form POST parameters
 var bodyParser = require("body-parser");
 
 var routes = require("./api/routes");
